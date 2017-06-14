@@ -1254,7 +1254,7 @@ To,Hasta,module,Magento_Bundle
 "Go back to product details","Volver a detalles del producto",module,Magento_Bundle
 "Customize and Add to Cart","Personalizar y añadir a la Cesta",module,Magento_Bundle
 "* Required Fields","* Campos obligatorios",module,Magento_Bundle
-"Your Customization","Geben Sie die Menge der benutzerdefinierten Cabochon Sie wollen und in den Warenkorb legen",module,Magento_Bundle
+"Your Customization","Introduzca la cantidad de productos que desee y añadir al carrito",module,Magento_Bundle
 Availability,Disponibilidad,module,Magento_Bundle
 "In stock",Disponible,module,Magento_Bundle
 "Out of stock",Agotado,module,Magento_Bundle
