@@ -2079,7 +2079,7 @@ System,Sistema,module,Magento_Catalog
 Enable,Activado,module,Magento_Catalog
 Disable,Desactivar,module,Magento_Catalog
 "Update attributes","Actualizar atributos",module,Magento_Catalog
-none,ninguna,module,Magento_Catalog
+none,none,module,Magento_Catalog
 Overview,"Vista general",module,Magento_Catalog
 "Skip to the end of the images gallery","Saltar al final de la galería de imágenes",module,Magento_Catalog
 "Skip to the beginning of the images gallery","Saltar al comienzo de la galería de imágenes",module,Magento_Catalog
